@@ -1,0 +1,5 @@
+{
+  "name": "Studio do Serralheiro",
+  "description": "Uma plataforma para o Studio do Serralheiro compartilhar e gerenciar PDFs de catálogos de produtos. Visitantes podem visualizar os catálogos disponíveis, enquanto o proprietário pode fazer login para fazer upload de novos arquivos.",
+  "requestFramePermissions": []
+}
